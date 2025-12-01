@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Benson-EagleCodes
+- 👋 Hi, I’m @TheEagle-Benson
 - 👀 I’m interested in technical stuffs 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on with others to learn more 
-- 📫 How to reach me { WhatsApp: +233591511658, email: theeaglebenson}
+- 📫 How to reach me { WhatsApp: +233591511658, email: theeaglebenson@gmail.com}
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: very jovial 
 
